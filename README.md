@@ -1,4 +1,5 @@
-Time taken:
+**Time taken:**
+
 4 hours : Test 1
 
 2 hours : Test 2
