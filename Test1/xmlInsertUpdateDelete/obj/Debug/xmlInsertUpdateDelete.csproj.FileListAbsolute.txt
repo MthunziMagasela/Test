@@ -1,0 +1,12 @@
+c:\documents and settings\abhay\my documents\visual studio 2010\Projects\XMLOperations\xmlInsertUpdateDelete\bin\xmlInsertUpdateDelete.dll
+c:\documents and settings\abhay\my documents\visual studio 2010\Projects\XMLOperations\xmlInsertUpdateDelete\bin\xmlInsertUpdateDelete.pdb
+c:\documents and settings\abhay\my documents\visual studio 2010\Projects\XMLOperations\xmlInsertUpdateDelete\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\abhay\my documents\visual studio 2010\Projects\XMLOperations\xmlInsertUpdateDelete\obj\Debug\xmlInsertUpdateDelete.dll
+c:\documents and settings\abhay\my documents\visual studio 2010\Projects\XMLOperations\xmlInsertUpdateDelete\obj\Debug\xmlInsertUpdateDelete.pdb
+C:\Users\Mthunzi\Downloads\XMLOperations\XMLOperations\xmlInsertUpdateDelete\bin\xmlInsertUpdateDelete.dll.config
+C:\Users\Mthunzi\Downloads\XMLOperations\XMLOperations\xmlInsertUpdateDelete\bin\xmlInsertUpdateDelete.dll
+C:\Users\Mthunzi\Downloads\XMLOperations\XMLOperations\xmlInsertUpdateDelete\bin\xmlInsertUpdateDelete.pdb
+C:\Users\Mthunzi\Downloads\XMLOperations\XMLOperations\xmlInsertUpdateDelete\obj\Debug\xmlInsertUpdateDelete.csproj.AssemblyReference.cache
+C:\Users\Mthunzi\Downloads\XMLOperations\XMLOperations\xmlInsertUpdateDelete\obj\Debug\xmlInsertUpdateDelete.csproj.CoreCompileInputs.cache
+C:\Users\Mthunzi\Downloads\XMLOperations\XMLOperations\xmlInsertUpdateDelete\obj\Debug\xmlInsertUpdateDelete.dll
+C:\Users\Mthunzi\Downloads\XMLOperations\XMLOperations\xmlInsertUpdateDelete\obj\Debug\xmlInsertUpdateDelete.pdb

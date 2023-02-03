@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<Employees>
+  <Employee>
+    <ID>101</ID>
+    <Name>Abhay</Name>
+    <Designation>Senior Software Engineer</Designation>
+    <EmailID>abhay.shanker@hotmail.com</EmailID>
+    <City>Pune</City>
+    <Country>India</Country>
+    <Technology>.Net</Technology>
+  </Employee>
+  <Employee>
+    <ID>102</ID>
+    <Name>Aditya Sharma</Name>
+    <Designation>Sr. Software Engineer</Designation>
+    <EmailID>aditya.singh@hotmail.com</EmailID>
+    <City>Pune</City>
+    <Country>India</Country>
+    <Technology>SAP</Technology>
+  </Employee>
+  <Employee>
+    <ID>104</ID>
+    <Name>Aayush</Name>
+    <Designation>Director</Designation>
+    <EmailID>Aayush.s@hotmail.com</EmailID>
+    <City>Indore</City>
+    <Country>India</Country>
+    <Technology>Oracle</Technology>
+  </Employee>
+  <Employee>
+    <ID>105</ID>
+    <Name>Abhinav</Name>
+    <Designation>Trainee</Designation>
+    <EmailID>Abhinav.p@hotmail.com</EmailID>
+    <City>Gurgaon</City>
+    <Country>India</Country>
+    <Technology>.Net</Technology>
+  </Employee>
+</Employees>
