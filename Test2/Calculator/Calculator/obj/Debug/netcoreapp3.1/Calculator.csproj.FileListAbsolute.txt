@@ -1,0 +1,14 @@
+C:\Users\Remember\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Remember\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Remember\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Remember\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Remember\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Remember\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Remember\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
